@@ -1,0 +1,11 @@
+D:\BankingApplication\BankApplication\bin\Release\BankApplication.exe.config
+D:\BankingApplication\BankApplication\bin\Release\BankApplication.exe
+D:\BankingApplication\BankApplication\bin\Release\BankApplication.pdb
+D:\BankingApplication\BankApplication\obj\Release\BankApplication.csprojAssemblyReference.cache
+D:\BankingApplication\BankApplication\obj\Release\BankApplication.Form1.resources
+D:\BankingApplication\BankApplication\obj\Release\BankApplication.frmAddCustomer.resources
+D:\BankingApplication\BankApplication\obj\Release\BankApplication.Properties.Resources.resources
+D:\BankingApplication\BankApplication\obj\Release\BankApplication.csproj.GenerateResource.cache
+D:\BankingApplication\BankApplication\obj\Release\BankApplication.csproj.CoreCompileInputs.cache
+D:\BankingApplication\BankApplication\obj\Release\BankApplication.exe
+D:\BankingApplication\BankApplication\obj\Release\BankApplication.pdb

@@ -1,0 +1,13 @@
+D:\BankingApplication\NunitTestBankApp\bin\Release\NunitTestBankApp.dll
+D:\BankingApplication\NunitTestBankApp\bin\Release\NunitTestBankApp.pdb
+D:\BankingApplication\NunitTestBankApp\bin\Release\BankAppWeb.dll
+D:\BankingApplication\NunitTestBankApp\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\BankingApplication\NunitTestBankApp\bin\Release\nunit.framework.dll
+D:\BankingApplication\NunitTestBankApp\bin\Release\BankAppWeb.pdb
+D:\BankingApplication\NunitTestBankApp\bin\Release\BankAppWeb.dll.config
+D:\BankingApplication\NunitTestBankApp\bin\Release\nunit.framework.xml
+D:\BankingApplication\NunitTestBankApp\obj\Release\NunitTestBankApp.csprojAssemblyReference.cache
+D:\BankingApplication\NunitTestBankApp\obj\Release\NunitTestBankApp.csproj.CoreCompileInputs.cache
+D:\BankingApplication\NunitTestBankApp\obj\Release\NunitTestBankApp.csproj.CopyComplete
+D:\BankingApplication\NunitTestBankApp\obj\Release\NunitTestBankApp.dll
+D:\BankingApplication\NunitTestBankApp\obj\Release\NunitTestBankApp.pdb

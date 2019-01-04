@@ -1,0 +1,5 @@
+D:\BankingApplication\DataManagementService\bin\DataManagementService.dll
+D:\BankingApplication\DataManagementService\bin\DataManagementService.pdb
+D:\BankingApplication\DataManagementService\obj\Release\DataManagementService.csproj.CoreCompileInputs.cache
+D:\BankingApplication\DataManagementService\obj\Release\DataManagementService.dll
+D:\BankingApplication\DataManagementService\obj\Release\DataManagementService.pdb

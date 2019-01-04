@@ -1,0 +1,15 @@
+D:\BankingApplication\BankAppWeb\bin\BankAppWeb.dll.config
+D:\BankingApplication\BankAppWeb\bin\BankAppWeb.dll
+D:\BankingApplication\BankAppWeb\bin\BankAppWeb.pdb
+D:\BankingApplication\BankAppWeb\bin\BankAppWeb.dll.CodeAnalysisLog.xml
+D:\BankingApplication\BankAppWeb\bin\BankAppWeb.dll.lastcodeanalysissucceeded
+D:\BankingApplication\BankAppWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BankingApplication\BankAppWeb\bin\Microsoft.ApplicationInsights.dll
+D:\BankingApplication\BankAppWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\BankingApplication\BankAppWeb\bin\Microsoft.ApplicationInsights.xml
+D:\BankingApplication\BankAppWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\BankingApplication\BankAppWeb\obj\Release\BankAppWeb.csprojAssemblyReference.cache
+D:\BankingApplication\BankAppWeb\obj\Release\BankAppWeb.csproj.CoreCompileInputs.cache
+D:\BankingApplication\BankAppWeb\obj\Release\BankAppWeb.csproj.CopyComplete
+D:\BankingApplication\BankAppWeb\obj\Release\BankAppWeb.dll
+D:\BankingApplication\BankAppWeb\obj\Release\BankAppWeb.pdb
